@@ -1,0 +1,3 @@
+db.character.insert({
+    
+});

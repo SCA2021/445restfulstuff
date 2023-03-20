@@ -1,0 +1,14 @@
+{
+    id: ObjectID(),
+    look: {skin: skinname},
+    alive:true,
+    protection: {
+        health:100,
+        shield: 0,
+        overshield: 0
+    },
+    tag: gamertag,
+    inventory: {
+        
+    }
+}
